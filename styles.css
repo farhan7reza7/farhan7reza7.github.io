@@ -1,0 +1,43 @@
+.social {
+  height: 38px;
+  margin-top: 40px;
+  text-align: center;
+}
+.social a {
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.social div {
+  background: url(icons.svg);
+  background-size: 100% !important;
+  width: 38px !important;
+  height: 38px !important;
+  display: inline-block !important;
+  margin-left: 5px !important;
+}
+
+.social > a > div.facebook {
+  background-position: 0px 0px !important;
+}
+.social > a > div.facebook:hover {
+  background-position: 0px -190px !important;
+}
+.social > a > div.linkedin {
+  background-position: 0px -76px !important;
+}
+.social > a > div.linkedin:hover {
+  background-position: 0px -266px !important;
+}
+.social > a > div.instagram {
+  background-position: 0px -38px !important;
+}
+.social > a > div.instagram:hover {
+  background-position: 0px -228px !important;
+}
+.social > a > div.twitter {
+  background-position: 0px -114px !important;
+}
+.social > a > div.twitter:hover {
+  background-position: 0px -304px !important;
+}

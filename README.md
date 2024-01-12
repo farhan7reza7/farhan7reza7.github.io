@@ -1,6 +1,6 @@
 # farhan7reza7.github.io`:`
-_Play with cube: the animation based movable and distortable cube!_
+Play with cube: the animation based movable and distortable cube!
 
 ---
 
-This page is to be updated with relevant contents
+_This page is to be updated with relevant contents_

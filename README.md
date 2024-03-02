@@ -124,7 +124,7 @@ If you find my works interesting or useful, hoping you to consider supporting me
 
 **Play-With-Cube:** the animation based movable and distortable cube!
 
-[See here](https://farhan7reza7.github.io/)
+[See here](https://play-with-cube.netlify.app/https://play-with-cube.netlify.app/)
 
 
 ---

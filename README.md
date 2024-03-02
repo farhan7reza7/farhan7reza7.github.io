@@ -119,13 +119,13 @@ If you find my works interesting or useful, hoping you to consider supporting me
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Me-green)](https://github.com/sponsors/farhan7reza7)
 
+---
 
 # farhan7reza7.github.io
 
 **Play-With-Cube:** the animation based movable and distortable cube!
 
-[See here](https://play-with-cube.netlify.app/https://play-with-cube.netlify.app/)
-
+[See here](https://play-with-cube.netlify.app/)
 
 ---
 
